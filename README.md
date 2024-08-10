@@ -2,7 +2,7 @@
 
 This project showcases an interactive and visually compelling sales dashboard for a coffee shop, created using Power BI. The dashboard provides valuable insights into sales trends, product performance, customer demographics, and revenue analysis.
 
-### Key Features:
+### KPI Requirements
 
 - **Total Sales Analysis**: 
   - Calculate the total sales for each month.
